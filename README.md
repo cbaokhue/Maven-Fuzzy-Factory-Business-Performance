@@ -69,4 +69,4 @@ This project transforms raw e-commerce data into interactive dashboards that hel
 
 Read the complete report here:
 
-📄 **PDF Report:** [Olist Customer Satisfaction Report](report/Maven_Report.pdf)
+📄 **PDF Report:** [Maven Fuzzy Factory Business Performance Report](report/Maven_Report.pdf)
