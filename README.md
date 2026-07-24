@@ -2,6 +2,20 @@
 
 An end-to-end business analytics project exploring sales, marketing, product performance, and refunds for Maven Fuzzy Factory using **Excel** and **Power BI**.
 
+## Power BI Dashboard
+
+![Power BI Dashboard Demo](dashboard/Maven_Dashboard.gif)
+## Excel Dashboard
+
+![Excel Dashboard](dashboard/Product_Performance_Dashboard.png)
+
+## Dataset
+
+This project uses the **Toy Store E-Commerce Database**, available on Maven Analytics.
+
+Dataset:
+[Maven Analytics]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database))
+
 ## Project Overview
 
 This project transforms raw e-commerce data into interactive dashboards that help answer key business questions:
