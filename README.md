@@ -14,7 +14,7 @@ An end-to-end business analytics project exploring sales, marketing, product per
 This project uses the **Toy Store E-Commerce Database**, available on Maven Analytics.
 
 Dataset:
-[Maven Analytics]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database))
+[Maven Analytics](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database) 
 
 ## Project Overview
 
